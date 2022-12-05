@@ -1,2 +1,2 @@
-# Clasificando_anomal-as_gen-ticas
+# Clasificando_anomalias_geneticas
 Machine Learning classification problem
